@@ -30,5 +30,5 @@ end
 
 def "#square_root(num)" do
   it "returns the square root of a number" do
-    expect()
+    expect(square_root())
 end
