@@ -29,5 +29,5 @@ def "#modulo(num1, num2)" do
 end
 
 def "#square_root(num)" do
-  expects(sqrt)
+  it "returns the value "
 end
