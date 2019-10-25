@@ -28,6 +28,6 @@ def "#modulo(num1, num2)" do
   end
 end
 
-def "#square_root(num)"
-  
+def "#square_root(num)" do
+  expects(sqrt)
 end
