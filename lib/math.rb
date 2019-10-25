@@ -22,10 +22,8 @@ def "#multiplication(num1, num2)" do
   end
 end
 
-def "#modulo(num1, num2)" do 
-  
-  
-
+def "#modulo(num1, num2)" do
+  it "returns the remainder of two numbers"
 end
 
 def square_root(num)
