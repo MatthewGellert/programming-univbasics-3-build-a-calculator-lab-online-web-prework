@@ -29,5 +29,5 @@ def "#modulo(num1, num2)" do
 end
 
 def "#square_root(num)" do
-  it "returns the "
+  it "returns the square root of a number"
 end
