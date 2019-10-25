@@ -24,7 +24,7 @@ end
 
 def "#modulo(num1, num2)" do
   it "returns the remainder of two numbers" do
-    expect(modulo())
+    expect(modulo(34,5))
 end
 
 def square_root(num)
